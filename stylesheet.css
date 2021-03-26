@@ -1,0 +1,145 @@
+*{
+	box-sizing: border-box;
+
+	
+}
+.markdown-bodyh1{
+    padding-bottom: 0.3em;
+    font-size: 2em;
+    border-bottom: 1px solid #eaecef;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+     margin-right: 180px;
+    margin-left: 180px;
+
+}
+.main{
+	position: relative;
+ width: auto;
+ height: 1100px;
+
+ border-radius: 20px;
+
+    margin-right: 180px;
+    margin-left: 180px;
+padding-top: 141.4286px;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); 
+ margin-top: 1.6em; margin-bottom: 0.9em; 
+ overflow: hidden;
+}
+.contacta{
+	 letter-spacing: 0.05em;
+	margin-left: 25px;
+	text-decoration: none;
+	color: white;
+	font-size: large;
+
+}
+.alink{
+
+	margin-left: 10px;
+	font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    letter-spacing: 0.05em;
+}
+.right{
+	position: absolute;
+	width:65%;height: 100%;
+	top: 0;
+	right: 0;
+	border: none;
+	padding: 0;
+	margin: 0; 
+	background-color: white;
+	 color: black;
+	    
+}
+.left{
+	position: absolute;
+	width:35%;height: 100%;
+	top: 0;
+	left: 0;
+	border: none;
+	padding: 0;margin: 0; 
+	background-color: black;
+	 color: white;
+
+}
+.contact{
+	letter-spacing: 0.05em;
+	margin-left: 25px;
+	margin-bottom: 35px;
+	 
+}
+.contactp{
+
+ letter-spacing: 0.05em;
+	margin-left: 25px;
+}
+.left-heading {
+	text-align: center;
+	margin-right: 17px;
+font-family: -apple-sysmet;
+margin-bottom: -15PX
+}
+.aboutme{
+	margin-left: 15px;
+ font-weight: 700;
+ font-variant: unicase;
+ letter-spacing: 0.05em;
+ margin-bottom: -15px; 
+
+}
+.aboutme-p{
+	text-decoration: none;
+font-weight: 100;
+margin-left:15px;
+font-size: 20px;
+font-variant: unicase;
+  line-height: 1.5;
+    letter-spacing: 0.05em;
+    font-family: "YACkoA9eHeY 0", _fb_, auto;
+    font-size: 20px;
+    text-transform: none;
+    margin-right: 15px;
+}
+.sub-heading1{
+	 letter-spacing: 0.05em;
+    font-family: "YACkoA9eHeY 0", _fb_, auto;
+    font-size: 25px;
+    text-transform: none;
+    color: rgb(0, 0, 0);
+    font-variant:all-petite-caps;
+	margin-left: 15px;
+	margin-bottom: -10px;
+
+}
+.sub-heading2{
+	 letter-spacing: 0.05em;
+    font-family: "YACkoA9eHeY 0", _fb_, auto;
+    font-size: 25px;
+    text-transform: none;
+    color: rgb(0, 0, 0);
+	margin-left: 15px;
+	margin-bottom: -10px;
+    font-variant: all-small-caps;
+
+}
+
+li{
+	margin-left: 35px;
+	margin-top: -8px;
+}
+img{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	border-radius: 50%;
+	margin-top: 10px;
+
+}
