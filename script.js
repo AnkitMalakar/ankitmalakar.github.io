@@ -1,4 +1,5 @@
 // Custom Cursor
+
 const cursorDot = document.querySelector('.cursor-dot');
 const cursorOutline = document.querySelector('.cursor-outline');
 
