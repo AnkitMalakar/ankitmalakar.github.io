@@ -3,6 +3,7 @@
 A professional, high-performance developer portfolio website designed for Ankit Malakar, a WordPress & Automation Engineer.
 This project is built with vanilla HTML, CSS, and JavaScript, ensuring fast load times and easy deployment to GitHub Pages.
 
+
 ## 🚀 Features
 
 - **Modern & Premium Design**: Dark-themed with glassmorphism effects and smooth animations.
